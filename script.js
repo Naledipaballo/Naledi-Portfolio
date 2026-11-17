@@ -1,27 +1,22 @@
-// Mobile navigation menu
 const menuToggle = document.getElementById("menuToggle");
 const navLinks = document.getElementById("navLinks");
 
-if (menuToggle && navLinks) {
-    menuToggle.addEventListener("click", () => {
-        const isExpanded =
-            menuToggle.getAttribute("aria-expanded") === "true";
+menuToggle.addEventListener("click", () => {
+  const isOpen = navLinks.classList.toggle("open");
+  menuToggle.setAttribute("aria-expanded", String(isOpen));
+  menuToggle.setAttribute("aria-label", isOpen ? "Close navigation" : "Open navigation");
+  menuToggle.textContent = isOpen ? "✕" : "☰";
+});
 
-        menuToggle.setAttribute("aria-expanded", String(!isExpanded));
-        navLinks.classList.toggle("active");
-    });
+// Close the mobile navigation after a section link is selected.
+navLinks.querySelectorAll("a").forEach((link) => {
+  link.addEventListener("click", () => {
+    navLinks.classList.remove("open");
+    menuToggle.setAttribute("aria-expanded", "false");
+    menuToggle.setAttribute("aria-label", "Open navigation");
+    menuToggle.textContent = "☰";
+  });
+});
 
-    navLinks.querySelectorAll("a").forEach(link => {
-        link.addEventListener("click", () => {
-            navLinks.classList.remove("active");
-            menuToggle.setAttribute("aria-expanded", "false");
-        });
-    });
-}
-
-// Automatic copyright year
-const yearElement = document.getElementById("year");
-
-if (yearElement) {
-    yearElement.textContent = new Date().getFullYear();
-}
+// Keep the footer year current.
+document.getElementById("year").textContent = new Date().getFullYear();
