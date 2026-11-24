@@ -38,10 +38,8 @@ A full-stack healthcare delivery platform comprising a native Kotlin Android app
 * **Role:** Software Developer 
 * **Key Features:** Medication browsing, prescription uploads, shopping cart and checkout, real-time order tracking, medication reminders, and an interactive pharmacy locator.
 * **Tech Stack:** Kotlin, HTML, CSS, JavaScript, Firebase Authentication, Cloud Firestore
+* * **Links:** [Live Website](https://naledipaballo.github.io/XISD.Web/) | [Web Repository](https://github.com/Naledipaballo/XISD.Web) | [Android Repository](https://github.com/Naledipaballo/xisd_app)
 
-Repositories:
-- [Android Application](https://github.com/Naledipaballo/xisd_app)
-- [Website](https://github.com/Naledipaballo/XISD.Web)
 
 ### 2. Gift of the Givers Web Application & NuGet Package
 A collaborative web application prototype built to support disaster relief coordination, paired with a reusable custom NuGet helper library.
