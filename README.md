@@ -3,20 +3,15 @@
 Welcome to my personal portfolio repository! This project showcases my background, technical skills, educational journey and software development projects as an Information Technology student specialising in Software Development.
 
 ## About Me
+I am **Naledi Paballo Tshelane**, a full-stack and mobile software developer focused on building practical, user-centred applications. My experience spans native Android development, ASP.NET Core web systems, cloud deployment on Microsoft Azure, and relational/cloud database engineering.
 
-My name is **Naledi Paballo Tshelane**, and I am a third-year Diploma in Information Technology student at Rosebank International.
+* **Mobile Application Development:** Native Kotlin Android apps with local persistence (RoomDB) and cloud backends (Firebase).
+* **Full-Stack Web Development:** Responsive web applications built with ASP.NET Core (MVC & Razor Pages), PHP, HTML, CSS, and JavaScript.
+* **Cloud & DevOps:** Application hosting, CI/CD pipelines, and package management using Microsoft Azure and GitHub.
+* **Database Engineering:** Schema design, normalisation (1NF–3NF), SQL querying, and NoSQL cloud data modelling.
 
-I am passionate about software development and enjoy building practical digital solutions. My areas of interest include:
-
-- Website Development
-- Mobile Application Development
-- Database Management
-- Software Development
-
-I am continuously developing my technical knowledge and programming skills through academic work and practical projects.
-
-## Education
-
+---
+## Education 
 **Rosebank International**  
 Diploma in Information Technology: Software Development  
 Third Year – In Progress
@@ -26,44 +21,31 @@ National Senior Certificate
 Completed: 2023
 
 ## Technical Skills
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Java, C#, Kotlin, PHP, JavaScript, SQL |
+| **Frameworks & Web** | ASP.NET Core (MVC & Razor Pages), XAML/WPF, HTML5, CSS3, Bootstrap |
+| **Databases** | Firebase (Auth & Firestore), SQL Server (SSMS), MySQL, Oracle SQL, SQLite, RoomDB |
+| **Cloud & DevOps** | Microsoft Azure (App Service, DevOps, Functions, Artifacts), Git, GitHub |
+| **Tools & IDEs** | Android Studio, Visual Studio, Visual Studio Code, XAMPP, phpMyAdmin |
 
-| Category | Technologies and Skills |
-|---|---|
-| Programming Languages | Java, C#, PHP, Kotlin |
-| Web Development | HTML, CSS, JavaScript |
-| Databases | SQL, Firebase, Oracle, phpMyAdmin, RoomDB |
-| Development Tools | Android Studio |
-| Database Concepts | Database design and normalisation (1NF–3NF) |
+---
 
-##  Featured Projects
+## Featured Projects
 
 ### 1. Pill Point Delivery
+A full-stack healthcare delivery platform comprising a native Kotlin Android app and a web portal designed to streamline medication access and pharmacy orders.
 
-Pill Point Delivery is a healthcare delivery project designed to make access to medication more convenient.
-
-**Main features include:**
-- Medication browsing
-- Shopping cart and checkout
-- Order tracking
-- Prescription uploads
-- Medication reminders
-- Pharmacy store locator
-
-**Technologies:** HTML, CSS, JavaScript, Kotlin and Firebase.
+* **Key Features:** Medication browsing, prescription uploads, shopping cart and checkout, real-time order tracking, medication reminders, and an interactive pharmacy locator.
+* **Tech Stack:** Kotlin, HTML, CSS, JavaScript, Firebase Authentication, Cloud Firestore
 
 Repositories:
 - [Android Application](https://github.com/Naledipaballo/xisd_app)
 - [Website](https://github.com/Naledipaballo/XISD.Web)
 
-### 2. Database and Application Development
+---
 
-Academic and practical development work involving database structures, SQL queries, data integrity and application development.
-
-##  My Development Journey
-
-I believe in learning through practice, solving problems and continuously improving my skills. Every project gives me an opportunity to explore new technologies, strengthen my programming knowledge and gain practical development experience.
-
-## 🌐 Personal Portfolio
+## Personal Portfolio
 
 Visit my portfolio website to learn more about me and explore my work:
 
@@ -73,7 +55,7 @@ Visit my portfolio website to learn more about me and explore my work:
 
 - **GitHub:** [Naledipaballo](https://github.com/Naledipaballo)
 - **LinkedIn:** [Naledi Paballo Tshelane](https://www.linkedin.com/in/naledi-paballo-tshelane-9086bb328/)
-- **Email:** Naledipaballo49@gmail.com
+- **Email:** naledipaballo49@gmail.com 
 
 ---
 
