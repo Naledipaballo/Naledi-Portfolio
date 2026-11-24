@@ -61,7 +61,7 @@ An interactive conversational chatbot application built in C# to handle automate
 
 Visit my portfolio website to learn more about me and explore my work:
 
-**[View My Portfolio](https://naledipaballo.github.io/naledi-portfolio/)**
+**[View My Portfolio](https://github.com/Naledipaballo/Naledi-Portfolio)**
 
 ## Connect With Me
 
