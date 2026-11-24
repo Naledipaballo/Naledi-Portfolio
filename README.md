@@ -35,7 +35,7 @@ Completed: 2023
 
 ### 1. Pill Point Delivery
 A full-stack healthcare delivery platform comprising a native Kotlin Android app and a web portal designed to streamline medication access and pharmacy orders.
-
+* **Role:** Software Developer 
 * **Key Features:** Medication browsing, prescription uploads, shopping cart and checkout, real-time order tracking, medication reminders, and an interactive pharmacy locator.
 * **Tech Stack:** Kotlin, HTML, CSS, JavaScript, Firebase Authentication, Cloud Firestore
 
@@ -43,6 +43,13 @@ Repositories:
 - [Android Application](https://github.com/Naledipaballo/xisd_app)
 - [Website](https://github.com/Naledipaballo/XISD.Web)
 
+### 2. Gift of the Givers Web Application & NuGet Package
+A collaborative web application prototype built to support disaster relief coordination, paired with a reusable custom NuGet helper library.
+* **Role:** Software Developer 
+* **Key Features:** Structured relief management workflows, modular helper utilities, and cloud-hosted deployment.
+* **Tech Stack:** C#, ASP.NET Core, Microsoft Azure (App Service, Azure DevOps, Azure Artifacts)
+* **Live Website:** [View Live Site](https://giftofthegivers220260825234617-hte3byf3cah8bffe.southafricanorth-01.azurewebsites.net/)
+*(Hosted on Azure — may take a few seconds to wake up)*
 ---
 
 ## Personal Portfolio
