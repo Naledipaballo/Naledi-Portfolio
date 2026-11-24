@@ -45,11 +45,11 @@ Repositories:
 
 ### 2. Gift of the Givers Web Application & NuGet Package
 A collaborative web application prototype built to support disaster relief coordination, paired with a reusable custom NuGet helper library.
-* **Role:** Software Developer 
+
 * **Key Features:** Structured relief management workflows, modular helper utilities, and cloud-hosted deployment.
 * **Tech Stack:** C#, ASP.NET Core, Microsoft Azure (App Service, Azure DevOps, Azure Artifacts)
-* **Live Website:** [View Live Site](https://giftofthegivers220260825234617-hte3byf3cah8bffe.southafricanorth-01.azurewebsites.net/)
-*(Hosted on Azure — may take a few seconds to wake up)*
+* **Links:** [Live Website](https://giftofthegivers220260825234617-hte3byf3cah8bffe.southafricanorth-01.azurewebsites.net/) 
+
 ---
 
 ## Personal Portfolio
