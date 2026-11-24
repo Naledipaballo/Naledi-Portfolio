@@ -50,6 +50,13 @@ A collaborative web application prototype built to support disaster relief coord
 * **Tech Stack:** C#, ASP.NET Core, Microsoft Azure (App Service, Azure DevOps, Azure Artifacts)
 * **Links:** [Live Website](https://giftofthegivers220260825234617-hte3byf3cah8bffe.southafricanorth-01.azurewebsites.net/) 
 
+### 3. ChatBot Application
+An interactive conversational chatbot application built in C# to handle automated user queries and real-time responses.
+
+* **Key Features:** Structured user interaction flow, automated query handling, and responsive interface.
+* **Tech Stack:** C#, .NET
+* **Repository:** [GitHub Repository](https://github.com/Naledipaballo/ChatBot)
+
 ---
 
 ## Personal Portfolio
