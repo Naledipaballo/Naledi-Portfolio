@@ -46,7 +46,8 @@ A collaborative web application prototype built to support disaster relief coord
 
 * **Key Features:** Structured relief management workflows, modular helper utilities, and cloud-hosted deployment.
 * **Tech Stack:** C#, ASP.NET Core, Microsoft Azure (App Service, Azure DevOps, Azure Artifacts)
-* **Links:** [Live Website](https://giftofthegivers220260825234617-hte3byf3cah8bffe.southafricanorth-01.azurewebsites.net/) 
+* **Links:** [Live Website](https://giftofthegivers220260825234617-hte3byf3cah8bffe.southafricanorth-01.azurewebsites.net/) | [Azure DevOps Repo](https://dev.azure.com/AWSAssignment/Gift%20of%20the%20Givers%20Application) | [GitHub Repo](https://github.com/Luvuyo14/GiftOfTheGivers)
+
 
 ### 3. ChatBot Application
 An interactive conversational chatbot application built in C# to handle automated user queries and real-time responses.
